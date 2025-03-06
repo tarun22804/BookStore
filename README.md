@@ -1,2 +1,5 @@
-# BookStore
-Simple Book Store Using PHP and MySQL
+# Simple Online Book Store
+
+### Admin User
+- **uersname**: admin
+- **password**: admin123
